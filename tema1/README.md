@@ -2,7 +2,7 @@
 
 | Ejercicios | descripción |
 | --- | --- |
-| [Ejercicio 1](Welcome.java) | --- |
+| [Ejercicio 1](Welcome.java) | Primer programa de java. Muestra un mensaje de bienvenida |
 | Ejercicio 2 | --- |
 | Ejercicio 3 | --- |
 | Ejercicio 4 | --- |
