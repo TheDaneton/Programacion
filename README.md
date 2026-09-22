@@ -9,7 +9,7 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 | [Welcome.java](tema1/Welcome.java) | Primer programa de java. Muestra un mensaje de bienvenida |
 | [Ejercicio 1](tema1/EJ1.java) | Aprendemos a usar println y print tf |
 | [Ejercicio 2](tema1/EJ2.java) | Este programa escribe mi nombre por pantalla |
-| [Ejercicio 3](tema1/EJ3.java) | --- |
+| [Ejercicio 3](tema1/EJ3.java) | Este programa escribe mi nombre completo, mi calle y mi número de teléfono por pantalla |
 | Ejercicio 4 | --- |
 
 
