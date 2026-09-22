@@ -11,7 +11,7 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 | [Ejercicio 2](tema1/EJ2.java) | Este programa escribe mi nombre por pantalla |
 | [Ejercicio 3](tema1/EJ3.java) | Este programa escribe mi nombre completo, mi calle y mi número de teléfono por pantalla |
 | [Ejercicio 4](tema1/EJ4.java) | Este programa muestra por pantalla 10 palabras en inglés junto a su correspondiente traducción al castellano. |
-| [Ejercicio 5](tema1/EJ5.java) | --- |
+| [Ejercicio 5](tema1/EJ5.java) | Este programa muestra mi horario escolar |
 
 
 ## Tema 2 - Programacion Elemental
