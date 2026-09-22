@@ -30,7 +30,7 @@ public class Horario {
                 "10:00-11:00",
                 "Sistemas Informáticos",
                 "Sostenibilidad",
-                "Itinerario Personal para la Empleabilidad I",
+                "IPE",
                 "Lenguajes de Marcas",
                 "Bases de Datos");
 
@@ -38,9 +38,9 @@ public class Horario {
                 "11:30-12:30",
                 "Sistemas Informáticos",
                 "Entorno de Desarrollo",
-                "Itinerario Personal para la Empleabilidad I",
+                "IPE",
                 "Sistemas Informáticos",
-                "Itinerario Personal para la Empleabilidad I");
+                "IPE");
 
         System.out.printf("%-13s %-30s %-30s %-30s %-30s %-30s%n",
                 "12:30-13:30",
