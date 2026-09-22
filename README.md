@@ -6,10 +6,10 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 
 | Ejercicios | descripción |
 | --- | --- |
-| [Welcome.java](Welcome.java) | Primer programa de java. Muestra un mensaje de bienvenida |
-| [Ejercicio 1](EJ1.java) | Aprendemos a usar println y print tf |
-| [Ejercicio 2](EJ2.java) | Este programa escribe mi nombre por pantalla |
-| [Ejercicio 3](EJ3.java) | --- |
+| [Welcome.java](tema1/Welcome.java) | Primer programa de java. Muestra un mensaje de bienvenida |
+| [Ejercicio 1](tema1/EJ1.java) | Aprendemos a usar println y print tf |
+| [Ejercicio 2](tema1/EJ2.java) | Este programa escribe mi nombre por pantalla |
+| [Ejercicio 3](tema1/EJ3.java) | --- |
 | Ejercicio 4 | --- |
 
 
