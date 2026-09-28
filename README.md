@@ -18,8 +18,8 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 
 | Ejercicios | descripción |
 | --- | --- |
-| Ejercicio 1 | --- |
-| Ejercicio 2 | --- |
+| [Ejercicio 1](tema2/EJ2_1.java) | Este programa te pasa de segundos a minutos y horas |
+| [Ejercicio 2](tema2/EJ2_2.java) | Este programa te pasa de grados farenheit a celsius |
 | Ejercicio 3 | --- |
 | Ejercicio 4 | --- |
 | Ejercicio 5 | --- |
