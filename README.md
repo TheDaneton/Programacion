@@ -18,9 +18,9 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 
 | Ejercicios | descripción |
 | --- | --- |
-| [Act Conver Segundos]() | Este programa le escribes tantos segundos y te lo da en horas, minutos y segundos |
-| [Act Conver Grados ]() | Este programa te pasa de grados farenheit a celsius |
-| [Ejercicio 1](tema2/EJ2_1.java) | --- |
+| [Act Conver Segundos](tema2/EJP2_1.java) | Este programa le escribes tantos segundos y te lo da en horas, minutos y segundos |
+| [Act Conver Grados ](tema2/EJP2_1.java) | Este programa te pasa de grados farenheit a celsius |
+| [Ejercicio 1](tema2/EJ2_1.java) | Este |
 | [Ejercicio 2](tema2/EJ2_2.java) | --- |
 | [Ejercicio 3] | --- |
 | [Ejercicio 4] | --- |
