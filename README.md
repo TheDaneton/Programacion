@@ -23,5 +23,5 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 | [Ejercicio 1](tema2/EJ2_1.java) | Este programa calcula el salario semanal de un empleado en base a las horas trabajadas, a razón de 12 euros la hora. |
 | [Ejercicio 2](tema2/EJ2_2.java) | Este programa calcula el volumen de un cono escribiendo su radio y altura. |
 | [Ejercicio 3](tema2/EJ2_3.java) | Este programa es un conversor de Mb a Kb. |
-| [Ejercicio 4] | --- |
+| [Ejercicio 4](tema2/EJ2_2.java) | Este programa es un conversor de Kb a Mb. |
 | [Ejercicio 5] | --- |
