@@ -6,9 +6,9 @@ public class EJ2_1 {
         Scanner teclado = new Scanner(System.in);
         
         System.out.print("Introduce las horas trabajadas: ");
-        double horas = teclado.nextDouble();
+        float horas = teclado.nextFloat();
         
-        double salario = horas * 12;
+        float salario = horas * 12;
         
         System.out.println("El salario semanal es: " + salario + " euros");
         
