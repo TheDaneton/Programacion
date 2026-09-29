@@ -4,7 +4,7 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 
 ## Tema 1 - Introducción a las computadoras, a los programas y Java
 
-| Ejercicios | descripción |
+| Ejercicios | Descripción |
 | --- | --- |
 | [Welcome.java](tema1/Welcome.java) | Primer programa de java. Muestra un mensaje de bienvenida. |
 | [Ejercicio 1](tema1/EJ1.java) | Aprendemos a usar println y print tf. |
