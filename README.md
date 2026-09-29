@@ -16,7 +16,7 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 
 ## Tema 2 - Programacion Elemental
 
-| Ejercicios | descripción |
+| Ejercicios | Descripción |
 | --- | --- |
 | [Act Conver Segundos](tema2/EJP2_1.java) | Este programa le escribes tantos segundos y te lo da en horas, minutos y segundos. |
 | [Act Conver Grados ](tema2/EJP2_1.java) | Este programa te pasa de grados farenheit a celsius. |
