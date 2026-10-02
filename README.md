@@ -25,3 +25,19 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 | [Ejercicio 3](tema2/EJ2_3.java) | Este programa es un conversor de Mb a Kb. |
 | [Ejercicio 4](tema2/EJ2_4.java) | Este programa es un conversor de Kb a Mb. |
 | [Ejercicio 5] | --- |
+
+
+## Tema 3 - Selecciones
+
+| Ejercicios | Descripción |
+| --- | --- |
+| [Ejercicio 1] | --- |
+| [Ejercicio 2] | --- |
+| [Ejercicio 3] | --- |
+| [Ejercicio 4] | --- |
+| [Ejercicio 5] | --- |
+| [Ejercicio 6] | --- |
+
+
+
+
