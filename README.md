@@ -35,7 +35,7 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 | [Ejercicio 2](tema3/EJ3_2.java) | Este programa te pide una hora y luego te muestra buenos días, tardes o noches según la hora. |
 | [Ejercicio 3](tema3/EJ3_3.java) | Este programa nos dice el horóscopo a partir del día y el mes de nacimiento. |
 | [Ejercicio 4](tema3/EJ3_4.java) | Este programa dice si un número entero positivo introducido es capicúa. |
-| [Ejercicio 5](tema3/EJ3_5.java) | --- |
+| [Ejercicio 5](tema3/EJ3_5.java) | Este programa calcula la nota de un trimestre de la asignatura Programación.  |
 
 
 
