@@ -31,7 +31,7 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 
 | Ejercicios | Descripción |
 | --- | --- |
-| [Ejercicio 1](tema3/EJ3_1.java) | --- |
+| [Ejercicio 1](tema3/EJ3_1.java) | Este programa te pide por teclado un día de la semana y que te dice qué asignatura toca a primera hora ese día. |
 | [Ejercicio 2](tema3/EJ3_2.java) | --- |
 | [Ejercicio 3](tema3/EJ3_3.java) | --- |
 | [Ejercicio 4](tema3/EJ3_4.java) | --- |
