@@ -31,7 +31,7 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 
 | Ejercicios | Descripción |
 | --- | --- |
-| [AñoBisiesto](tema3/AñoBisiesto) | Este programa te pide año y te dice si es bisiesto o no. |
+| [AñoBisiesto](tema3/AñoBisiesto.java) | Este programa te pide año y te dice si es bisiesto o no. |
 | [Divisible](tema3/Divisible) | Este programa te pide un numero y te dice si es divisible entre 2, 3 o ambos. |
 | [EvaluaExpresiones](tema3/EvaluaExpresiones) | Este programa evalua expresiones. |
 | [Ejercicio 1](tema3/EJ3_1.java) | Este programa te pide un día de la semana y que te dice qué asignatura toca a primera hora. |
