@@ -24,7 +24,7 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 | [Ejercicio 2](tema2/EJ2_2.java) | Este programa calcula el volumen de un cono escribiendo su radio y altura. |
 | [Ejercicio 3](tema2/EJ2_3.java) | Este programa es un conversor de Mb a Kb. |
 | [Ejercicio 4](tema2/EJ2_4.java) | Este programa es un conversor de Kb a Mb. |
-| [Ejercicio 5] | --- |
+| [Ejercicio 5](tema2/EJ2_5.java) | Este programa le das un número binario y te lo pasa a decimal. |
 
 
 ## Tema 3 - Selecciones
