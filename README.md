@@ -41,6 +41,11 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 | [Ejercicio 5](tema3/EJ3_5.java) | Este programa calcula la nota de un trimestre de la asignatura Programación.  |
 
 
+## Tema 4 - Métodos matemáticos, caracteres y cadenas
+
+| Ejercicios | Descripción |
+| --- | --- |
+
 
 
 
