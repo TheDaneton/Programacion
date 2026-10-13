@@ -45,6 +45,11 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 
 | Ejercicios | Descripción |
 | --- | --- |
+| [Ejercicio 1](tema4/EJ4_1.java) | Este programa te calcula 5 notas que introduzcas. |
+| [Ejercicio 2](tema4/EJ4_2.java) | Este programa muestra al azar el nombre de una carta de la baraja francesa. |
+| [Ejercicio 3](tema4/EJ4_3.java) | Este programa |
+| [Ejercicio 4](tema4/EJ4_4.java) | Este programa |
+| [Ejercicio 5](tema4/EJ4_5.java) | Este programa |
 
 
 
