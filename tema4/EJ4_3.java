@@ -1,13 +1,17 @@
-package tema4;
 public class EJ4_3 {
     public static void main(String[] args) {
         String mayusculas = "";
         String minusculas = "";
+        int i = 0;
 
-        for (int i = 0; i < 5; i++) {
-            char letra = (char) (65 + (int)(Math.random() * 26));
+        while (i < 5) {
+            int numero = (int) (Math.random() * 26);
+            String letra = "" + (char) (65 + numero);
+
             mayusculas = mayusculas + letra;
-            minusculas = minusculas + (char)(letra + 32);
+            minusculas = minusculas + letra.toLowerCase();
+
+            i++;
         }
 
         System.out.println(mayusculas);
