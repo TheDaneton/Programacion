@@ -47,6 +47,8 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 
 | Ejercicios | Descripción |
 | --- | --- |
+| [Insertar Dígito](tema4/InsertarDigito.java) | Este programa te permite insertar un número dentro de otro. |
+| [Número Partido](tema4/NumeroPartido.java) | Este programa te separa un número en la posición que le indiques. |
 | [Quiniela](tema4/Quiniela.java) | Este programa muestra una quiniela al azar. |
 | [Líneas Caracteres](tema4/Caracteres.java) | Este programa muestra una línea con caracteres aleatorios. |
 | [Líneas Caracteres 2](tema4/Caracteres2.java) | Este programa muestra una línea con otros caracteres aleatorios. |
