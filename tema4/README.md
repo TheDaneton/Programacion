@@ -2,7 +2,8 @@
 
 | Ejercicios | Descripción |
 | --- | --- |
-| [Número Parido](NumeroPartido.java) | Este programa te separa un número en la posición que le indiques. |
+| [Insertar Dígito](InsertarDigito.java) | Este programa te permite insertar un número dentro de otro. |
+| [Número Partido](NumeroPartido.java) | Este programa te separa un número en la posición que le indiques. |
 | [Quiniela](Quiniela.java) | Este programa muestra una quiniela al azar. |
 | [Líneas Caracteres](Caracteres.java) | Este programa muestra una línea con caracteres aleatorios. |
 | [Líneas Caracteres 2](Caracteres2.java) | Este programa muestra una línea con otros caracteres aleatorios. |
