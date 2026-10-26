@@ -59,6 +59,13 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 | [Ejercicio 5](tema4/Ej4_5.java) | Este programa divide una palabra desde la primera A que encuentre. |
 
 
+## Tema 5 - Bucles
 
-
-
+| Ejercicios | Descripción |
+| --- | --- |
+| [Cohete](tema5/Cohete.java) | Este programa cuenta desde 5 hasta 0 y luego muestra “¡Despegue! 🚀” |
+| [] | Este programa |
+| [] | Este programa |
+| [] | Este programa |
+| [] | Este programa |
+| [] | Este programa |
