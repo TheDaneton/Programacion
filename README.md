@@ -59,13 +59,15 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 | [Ejercicio 5](tema4/Ej4_5.java) | Este programa divide una palabra desde la primera A que encuentre. |
 
 
+
 ## Tema 5 - Bucles
 
 | Ejercicios | Descripción |
 | --- | --- |
 | [Cohete](tema5/Cohete.java) | Este programa cuenta desde 5 hasta 0 y luego muestra “¡Despegue! 🚀” |
-| [] | Este programa |
-| [] | Este programa |
-| [] | Este programa |
-| [] | Este programa |
-| [] | Este programa |
+| [Tabla del Nueve](tema5/TablaDelNueve.java) | Este programa muestra la tabla de multiplicar del 9 (del 1 al 10) usando un for. |
+| [Nota](tema5/Nota.java) | Este programa convierta una nota numérica (double nota) en su calificación textual. |
+| [Escalera Números](tema5/EscaleraNumeros.java) | Este programa imprime una escalera de números. |
+| [Números Primos](tema5/NumerosPrimos.java) | Este programa imprime todos los números primos del 1 al 50, cada uno en su línea. |
+| [Suma Hasta Cero](tema5/SumaHastaCero.java) | Este programa sume números enteros introducidos por el usuario hasta que escriba 0. |
+
