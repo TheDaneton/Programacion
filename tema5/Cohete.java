@@ -1,4 +1,3 @@
-package tema5;
 public class Cohete {
     public static void main(String[] args) {
        
@@ -8,7 +7,7 @@ public class Cohete {
             c--;
         } 
         if (c == 0) {
-                System.out.println("¡Despegue!");
+                System.out.println("¡Despegue!" + "\u1F680");
             }
 
     }
