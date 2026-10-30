@@ -1,3 +1,4 @@
+package tema5;
 public class TablaDelNueve {
     public static void main(String[] args) {
 
