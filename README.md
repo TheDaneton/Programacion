@@ -67,7 +67,14 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 | [Cohete](tema5/Cohete.java) | Este programa cuenta desde 5 hasta 0 y luego muestra “¡Despegue! 🚀” |
 | [Tabla del Nueve](tema5/TablaDelNueve.java) | Este programa muestra la tabla de multiplicar del 9 (del 1 al 10) usando un for. |
 | [Nota](tema5/Nota.java) | Este programa convierta una nota numérica (double nota) en su calificación textual. |
+| [Escalera Números Derecha](tema5/EscaleraNumerosDer.java) | Este programa imprime una escalera de números hacia la derecha. |
+| [Escalera Números Izquierda](tema5/EscaleraNumerosIzq.java) | Este programa imprime una escalera de números hacia la izquierda. |
 | [Escalera Números](tema5/EscaleraNumeros.java) | Este programa imprime una escalera de números. |
 | [Números Primos](tema5/NumerosPrimos.java) | Este programa imprime todos los números primos del 1 al 50, cada uno en su línea. |
 | [Suma Hasta Cero](tema5/SumaHastaCero.java) | Este programa sume números enteros introducidos por el usuario hasta que escriba 0. |
+| [Números Pares](tema5/NumerosPares.java) | Este programa pide un número entero y muestra todos los números pares comprendidos entre 1 y ese número. |
+| [Contar Cifras](tema5/ContarCifras.java) | Este programa pide un número entero positivo y calcula cuántas cifras tiene sin convertirlo a texto. |
+| [Rectángulo Asteriscos](tema5/RectanguloAsteriscos.java) | Este programa pide el número de filas y columnas y dibuja un rectángulo de asteriscos. |
+| [Cuadrado Numérico](tema5/CuadradoNumerico.java) | Este programa pide un número y muestra un cuadrado con números del 1 al N en cada fila. |
+| [Matriz Números](tema5/MatrizNumeros.java) | Este programa pide un número y muestra una matriz en la que cada posición contenga el número de su fila multiplicado por el número de su columna.  |
 
