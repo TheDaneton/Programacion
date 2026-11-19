@@ -87,7 +87,7 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 | [Ejercicio 1](tema6/Biblioteca.java) | Este programa es una biblioteca de funciones matemáticas que contiene varios métodos. |
 | [Ejercicio 2](tema6/MaximoDosNumeros.java) | Este progama tiene como parámetros dos números, y que calcula el máximo. |
 | [Ejercicio 3](tema6/MaximoTresNumeros.java) | Este programa calcula el máximo de 3 números. |
-| [Ejercicio 4](tema6/VolumenCilincro.java) | Este programa calcula el volumen de un cilindro. |
+| [Ejercicio 4](tema6/VolumenCilindro.java) | Este programa calcula el volumen de un cilindro. |
 | [Ejercicio 5](tema6/DivisoresPrimos.java) | Este programa le pasas un número entero y devuelve el número de divisores primos que tiene. |
 | [Ejercicio 6](tema6/NumerosAmigos.java) | Este programa decide si dos números enteros positivos son amigos. |
 | [Ejercicio 7](tema6/DiaSemanaFecha.java) | Este programa lee fechas validas por teclado y calcula el día de la semana que corresponde a esa fecha. |
