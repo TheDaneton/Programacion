@@ -92,3 +92,21 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Programación
 | [Ejercicio 6](tema6/NumerosAmigos.java) | Este programa decide si dos números enteros positivos son amigos. |
 | [Ejercicio 7](tema6/DiaSemanaFecha.java) | Este programa lee fechas validas por teclado y calcula el día de la semana que corresponde a esa fecha. |
 
+
+
+## Tema 7 - Matrices Unidimensionales
+
+| Ejercicios | Descripción |
+| --- | --- |
+| [Ejercicio 1](tema7/Array1.java) | --- |
+| [Ejercicio 2](tema7/Array2.java) | --- |
+| [Ejercicio 3](tema7/Array3.java) | --- |
+| [Ejercicio 4](tema7/Array4.java) | --- |
+| [Ejercicio 5](tema7/Array5.java) | --- |
+| [Ejercicio 6](tema7/Array6.java) | --- |
+| [Ejercicio 7](tema7/Array7.java) | --- |
+| [Ejercicio 8](tema7/Array8.java) | --- |
+| [Ejercicio 9](tema7/Array9.java) | --- |
+| [Ejercicio 10](tema7/Array10.java) | --- |
+
+
